@@ -1,0 +1,14 @@
+//此多仓接口管理系统，是【软件小哥哥】为粉丝提供便利而制作接口管理系统。
+//微信小程序搜【软件小哥哥】 获取接口软件   "url": "http:\/\/47.96.82.41:5188\/",
+{
+    "urls": [
+        {
+            "url": "https:\/\/cdn.jsdelivr.net\/gh/jackisme2025\/TVSource@main\/top.json",
+            "name": "小哥哥┃资源线路"
+        },
+        {
+            "url": "https:\/\/cdn.jsdelivr.net\/gh/jackisme2025\/TVSource@main\/xx.json",
+            "name": "小哥哥┃网盘线路"
+        }
+    ]
+}
