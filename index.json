@@ -2,7 +2,7 @@
   "warningText": "<<<,,,,获取接口本地化版>>>>>>>>>>>！！",
   "sites": [
 
-    {"key": "dbtj","name": "<<<<<<<<<<<<获取接口本地化版>>>>>>>>>>>>","type": 3,"api": "csp_DouDou"     ,"searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key": "dbtj","name": "<获取接口本地化版>","type": 3,"api": "csp_DouDou"     ,"searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "ttys","name": "天天┃影视","type": 3,"api": "csp_TTian"      ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==","jar": "http://47.96.82.41:5188/xgg/8/meow.jar;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},
     {"key": "zjys","name": "追剧┃影视","type": 3,"api": "csp_TTian"      ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,"ext": "daHR0cDovL3YubGt1eXMuY24=","jar": "http://47.96.82.41:5188/xgg/8/meow.jar;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},
     {"key": "jpys","name": "剧评┃影视","type": 3,"api": "csp_Jpys"       ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,"ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==","jar": "http://47.96.82.41:5188/xgg/8/meow.jar;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},
@@ -86,4 +86,5 @@
     {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
     {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
     {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}]}
+
     
