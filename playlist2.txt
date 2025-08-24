@@ -1,0 +1,94 @@
+播放列表由,#genre#
+http://abc.com
+www.iptv-search.com,#genre#
+http://abc.com
+智能生成,#genre#
+http://abc.com
+生成日期2025-08-24,#genre#
+http://abc.com
+CCTV,#genre#
+CCTV1,https://stream.iptv-search.com/main.php?id=CCTV1&t=1755401429&token=2a7947ec2567e48eceb21ddae4ff8579
+CCTV2,https://stream.iptv-search.com/main.php?id=CCTV2&t=1755401429&token=c13e8029fecea74961c862baa11ef098
+CCTV3,https://stream.iptv-search.com/main.php?id=CCTV3&t=1755401429&token=9bed28a11f26348b28a82926914124da
+CCTV4,https://stream.iptv-search.com/main.php?id=CCTV4&t=1755401429&token=9c46bce7288a624d3f371b295fb3abfe
+CCTV5,https://stream.iptv-search.com/main.php?id=CCTV5&t=1755401429&token=a18b03ce328628828b0670f0a572c206
+CCTV5+,https://stream.iptv-search.com/main.php?id=CCTV5%2B&t=1755401429&token=37861f6562a8926c3edc8c9afeea4ac8
+CCTV6,https://stream.iptv-search.com/main.php?id=CCTV6&t=1755401429&token=5a4f8837e56546b3f6c5a512e8f3a648
+CCTV7,https://stream.iptv-search.com/main.php?id=CCTV7&t=1755401429&token=fe8ae04edfae3c388fe122ccc5d536f7
+CCTV8,https://stream.iptv-search.com/main.php?id=CCTV8&t=1755401429&token=42b64ba00873797b14f02d9a22213e2a
+CCTV9,https://stream.iptv-search.com/main.php?id=CCTV9&t=1755401429&token=d63805bae8e22954e62acea599f6a326
+CCTV10,https://stream.iptv-search.com/main.php?id=CCTV10&t=1755401429&token=4a6eec804d0ea7a5345f1a5c66876084
+CCTV11,https://stream.iptv-search.com/main.php?id=CCTV11&t=1755401429&token=6cf8c9b2516dcd3f24df5c8e4ce8b239
+CCTV12,https://stream.iptv-search.com/main.php?id=CCTV12&t=1755401429&token=370698d48771cf932d84c13e782e69d3
+CCTV13,https://stream.iptv-search.com/main.php?id=CCTV13&t=1755401429&token=7dae0c4deae5610df36d7652443ee59b
+CCTV14,https://stream.iptv-search.com/main.php?id=CCTV14&t=1755401429&token=639e37b12c73bf50de7c2fa20e3dd136
+CCTV15,https://stream.iptv-search.com/main.php?id=CCTV15&t=1755401429&token=06c584a6237e45d7ffccfdc2b2e38fff
+CCTV16,https://stream.iptv-search.com/main.php?id=CCTV16&t=1755401429&token=7963e64176a7dc43e74208c66ae90709
+CCTV17,https://stream.iptv-search.com/main.php?id=CCTV17&t=1755401429&token=f867997a7e5f29bc08f2563b882844d6
+CCTV4(1080p),https://stream.iptv-search.com/main.php?id=CCTV4%281080p%29&t=1755401429&token=58a51006f2b1dce1146737a39d48d370
+Red CCTV (480p),https://stream.iptv-search.com/main.php?id=Red+CCTV+%28480p%29&t=1755401429&token=a39588008e0398e0802682c5923e4ba7
+TVB,#genre#
+TVB Entertainment,https://stream.iptv-search.com/main.php?id=TVB+Entertainment&t=1755401429&token=47892607b4192651c9c2aa313e25ba63
+TVB J1,https://stream.iptv-search.com/main.php?id=TVB+J1&t=1755401429&token=dceda8f9b66f45a9826e67c7aa5272b0
+TVB Jade,https://stream.iptv-search.com/main.php?id=TVB+Jade&t=1755401429&token=4fe7fd425102f95c662960da1d0d8c2b
+TVB Plus,https://stream.iptv-search.com/main.php?id=TVB+Plus&t=1755401429&token=0d8a5dab60b0e395d98e4dfd6fdb59ec
+TVB PLUS,https://stream.iptv-search.com/main.php?id=TVB+PLUS&t=1755401429&token=8ec41364dab51c266b80b521e555cb7e
+TVBS,https://stream.iptv-search.com/main.php?id=TVBS&t=1755401429&token=aa8de90dc0407aa071b3206fdafd7dbf
+TVBS Asia (1080p),https://stream.iptv-search.com/main.php?id=TVBS+Asia+%281080p%29&t=1755401429&token=f5008b686eb96b5d44974b289fee631f
+TVBS HD,https://stream.iptv-search.com/main.php?id=TVBS+HD&t=1755401429&token=206acf51243378c2b877716eb1f97506
+TVBS News,https://stream.iptv-search.com/main.php?id=TVBS+News&t=1755401429&token=a2c087d1eb3d94886d4cb92c0b04152f
+TVBS亚洲,https://stream.iptv-search.com/main.php?id=TVBS%E4%BA%9A%E6%B4%B2&t=1755401429&token=850da309b43156542ae9c356c275a60f
+TVBS欢乐,https://stream.iptv-search.com/main.php?id=TVBS%E6%AC%A2%E4%B9%90&t=1755401429&token=a81bb9ab94c3c57e12c0af61bf253258
+TVBS 欢乐台,https://stream.iptv-search.com/main.php?id=TVBS+%E6%AC%A2%E4%B9%90%E5%8F%B0&t=1755401429&token=a0346b22ad58bb6d4e77a77e16f1c1be
+TVBS 欢乐台 （备份）,https://stream.iptv-search.com/main.php?id=TVBS+%E6%AC%A2%E4%B9%90%E5%8F%B0+%EF%BC%88%E5%A4%87%E4%BB%BD%EF%BC%89&t=1755401429&token=9dca26cd74bb237f56da4d313a362cb0
+Tvbs歡樂,https://stream.iptv-search.com/main.php?id=Tvbs%E6%AD%A1%E6%A8%82&t=1755401429&token=b7b373f942ea3e6844a265d8254813a8
+Tvbs綜合,https://stream.iptv-search.com/main.php?id=Tvbs%E7%B6%9C%E5%90%88&t=1755401429&token=00ab57da250469f3e7b12aadcb6837f2
+TVB娱乐新闻,https://stream.iptv-search.com/main.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&t=1755401429&token=490d0b468155c0517a099ae337eed510
+TVB娱乐新闻台,https://stream.iptv-search.com/main.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0&t=1755401429&token=f60531159dc717508f7cd6bdc00bb00a
+TVB无线新闻,https://stream.iptv-search.com/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1755401429&token=d0aa2977de565e9820f0204ce53fcd9c
+TVB无线星河,https://stream.iptv-search.com/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%98%9F%E6%B2%B3&t=1755401429&token=e28d14fa451be6cfc87f2d853a81f247
+TVB明珠台,https://stream.iptv-search.com/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1755401429&token=dcaea5b5df2c70d032262f9e45bbdd86
+三立,#genre#
+三立台湾,https://stream.iptv-search.com/main.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&t=1755401429&token=6ba4d6dbf9daec985382a88e396cfec2
+民视台湾台,https://stream.iptv-search.com/main.php?id=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0&t=1755401429&token=1a6a4dd61813f5f0a4897a83b48bcc15
+三立台湾,https://stream.iptv-search.com/main.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&t=1753977057&token=0434b979ad4e606265b4174a06227da2
+民视台湾台,https://stream.iptv-search.com/main.php?id=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0&t=1753977057&token=e3ee1a2d4a1a69275b655478a69fb48c
+凤凰,#genre#
+凤凰中文,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1755401429&token=33ab409091582f033a9a8673c95b086d
+凤凰卫视,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86&t=1755401429&token=d5afb0a9ed062a20ca4e6dc710cf71d7
+凤凰资讯,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1755401429&token=6df1ba835fc0bc0366378a21228d38ee
+凤凰资讯HD,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AFHD&t=1755401429&token=4935338ff7feb0309c710e01ca7e5df8
+凤凰资讯高清,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85&t=1755401429&token=8dec3761c26f147eda498cedd8a50569
+凤凰香港,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&t=1755401429&token=f38a866c7a85f85870ea1496e2d60aa5
+凤凰香港台,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0&t=1755401429&token=99f0b6be01185328c160a24d33c764bd
+东森,#genre#
+东森新闻,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1755401429&token=4c18202fc3c53dcbd66f8f472cee6bf5
+东森新闻美国,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB%E7%BE%8E%E5%9B%BD&t=1755401429&token=4865ece6a300bb6f5560f13ceb70c537
+东森洋片,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&t=1755401429&token=369e968f9fffd543f382d3454829d723
+东森综合,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&t=1755401429&token=3692785cb12b65bb7c45a1813ec962b5
+東森戲劇,https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87&t=1755401429&token=f92420014d216b1deac83226071b30bc
+東森新聞,https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E&t=1755401429&token=ae575e62ec78a615ae74c8888dab2a1e
+東森綜合,https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E7%B6%9C%E5%90%88&t=1755401429&token=bb69e10899e26e3487b10ae16eb74cd8
+東森超視,https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E8%B6%85%E8%A6%96&t=1755401429&token=778bf9d6a9b37be5697d30b77beba776
+卫视,#genre#
+东南卫视,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1755401429&token=a90dae270cbe33cc1806c67dd10c63f4
+东方卫视,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1755401429&token=55c9e6c3cb98c46a6ed5a061652a1537
+兵团卫视,https://stream.iptv-search.com/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1755401429&token=88f5e72d96f279c13668713b7258a8cf
+北京卫视,https://stream.iptv-search.com/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1755401429&token=50d050d7a119255f394be4d9419c3f16
+吉林卫视,https://stream.iptv-search.com/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1755401429&token=1f7ef3b0e1959b2cd8374ef4c70948fc
+四川卫视,https://stream.iptv-search.com/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1755401429&token=4c122aaaa657a36665c3a2959c2bba62
+天津卫视,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1755401429&token=6b81235dfc9df2206ec7cba1217dba0a
+安徽卫视,https://stream.iptv-search.com/main.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&t=1755401429&token=6d42a91d906b0060ab739bd08e750fe3
+山东卫视,https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1755401429&token=ede240bd974d0a2fe7c3699f67cab91b
+广东卫视,https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1755401429&token=501089897543dc85abdf1f1918cde7da
+广西卫视,https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1755401429&token=f19926739de9c4adb8fd3d37a3d99a10
+新疆卫视,https://stream.iptv-search.com/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1755401429&token=bebf7aa5252cbaba3af8c5f398f8ca86
+江苏卫视,https://stream.iptv-search.com/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1755401429&token=562b9a0775104458bf4ef196280f7c9a
+江西卫视,https://stream.iptv-search.com/main.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1755401429&token=72c78f96ed7a85e29967be3aa98bf65e
+河北卫视,https://stream.iptv-search.com/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1755401429&token=4275c60d75f1e8b4552284b6e9def343
+河南卫视,https://stream.iptv-search.com/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1755401429&token=1398063395a6960e76fb9ae9a495fe52
+浙江卫视,https://stream.iptv-search.com/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1755401429&token=eeb4cea1a73c303e525d33e04764b6b0
+海南卫视,https://stream.iptv-search.com/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1755401429&token=4a9672d154742789f2326f5978c1d7d7
+深圳卫视,https://stream.iptv-search.com/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1755401429&token=39a49d827f8c23a782d041278bde4755
+湖北卫视,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1755401429&token=b52cc917a27f6b81dd437ebd25b12155
+
