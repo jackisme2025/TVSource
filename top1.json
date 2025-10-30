@@ -57,7 +57,7 @@
 
   "lives": [
     {"name": "软件小哥哥","type": 0,"playerType": 1,
-    "url": "http://47.96.82.41:5188/zb.txt",
+    "url": "https://4gtv.jack2025.qzz.io/?list=true",
     //"url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
     "ua": "okhttp/3.15",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -86,4 +86,5 @@
     {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
     {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
     {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}]}
+
     
